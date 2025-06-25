@@ -1,0 +1,309 @@
+
+          
+Arun inspected the statue
+in the abandoned palace.
+He plucked the jewel out
+of the statue’s forehead.
+His pet skink, Arunachalam, hung on tight.
+
+      
+
+          
+Gadagadagadagada! 
+The pillars began to shake.
+Radaradaradarada! 
+The walls shivered.
+Karaak!
+ The floor cracked.
+The door behind him closed with a 
+DHUD!
+
+      
+“How dare you take my pottu?” 
+boomed a voice
+from the statue. 
+“Give it back to me.”
+Arun was so scared that his arms and legs 
+turned to semiya. The jewel slipped out of 
+his fist and shattered into many pieces.
+
+          
+“The light from that jewel held
+the door open,” the statue said.
+“The jewel will take years to grow back.
+Now you can never leave.”
+Arun looked at the broken jewel in panic.
+“There must be some other way.”
+
+      
+“There is one other way, but you must hurry.”
+The statue closed its eyes. 
+“Wake up!” Arun punched the statue’s chest,
+scattering centuries of dust into the air.
+
+          
+“Look, Arunachalam, there’s a note here!
+It says that to open the door, we have to
+complete the circuit. Here’s what we need:
+The hair of a current creature
+to power the circuit,
+A hair clip from the resisters
+to control the current flow,
+A jewel from the upstairs place
+to emit light
+And feathers from a wirebird
+to connect everything together.
+I wonder what a current creature
+looks like. I bet it’s small and fuzzy!”
+
+      
+
+          
+Suddenly Arun heard growling behind him.
+It was the current creature, ice blue with anger.
+It was neither small 
+nor fuzzy.
+“Good doggie! 
+Nice doggie!” 
+Arun stammered.
+Then he swiftly 
+plucked a hair from 
+the creature’s eyebrow.
+
+      
+
+          
+“Raar raar raar raar raar 
+raar raar!”
+the current creature snarled,
+ready to pounce. 
+“HELP!” Arun cried.
+
+      
+
+          
+Three girls appeared out of nowhere
+and swatted the creature’s nose.
+“Arf-arf!” The current creature
+lowered its tail and ran away.
+“Thanks a lot!” Arun said, to the girls.
+“But why are you so tall?”
+“Er,” they replied “Why are you so short?”
+“I don’t have time to waste,” Arun rolled
+his eyes. “I need to find the resisters.”
+The girls laughed. “We are the resisters.”
+“Oh!” Arun smiled. 
+“Can I have your
+hair clip please?”
+“You can have it if you can reach it.”
+
+      
+
+          
+Arun hopped and jumped and leaped. 
+But he was still too short to reach their heads. 
+“I’m sorry for calling you too tall!” Arun said, 
+out of breath. 
+The sisters grinned and handed Arun one hair clip. He thanked them, and then asked, “Is that the upstairs place?” 
+“The upstairs place! You mustn’t go there,” 
+said the resisters. “The wirebird pecks anyone 
+who goes there.”
+“A bird?” Arun laughed, “I’m not afraid 
+of a silly bird.”
+
+      
+
+          
+Arun and Arunachalam climbed up
+to the jewels around the wirebird’s nest. 
+Arun grabbed a jewel but dropped it to catch
+a baby wirebird that had wandered too close
+to the edge.
+
+      
+
+          
+“Ka kaaaaa!” The mother wirebird swooped down 
+and grabbed Arun by the shoulder.
+“Put me down!” Arun yelled, clutching a clump 
+of the bird’s feathers. “I was helping.”
+The wirebird dropped him.
+“Argh! I can’t believe we lost the jewel!”
+Arun said.
+
+      
+“Click… click… click…”
+Arunachalam grinned.
+The jewel in his mouth sparkled.
+They ran past the upstairs place,
+past the three resisters and
+past the current creature.
+At last they were
+in front of the statue.
+Arun pinned the jewel
+to the statue’s chest.
+He fixed the resisters’
+hair clip 
+under the jewel.
+
+          
+He peeled out two wires
+from the wirebird’s feather.
+
+      
+He pinned one under the jewel and the other next to the hair clip. “Why isn’t the light turning on?”
+
+          
+ Then, all at once, he remembered. He touched the hair
+of the current creature to the open wire.
+
+      
+
+          
+FLASH!
+ It was the brightest light Arun had ever seen.
+The palace door swung open.
+
+      
+
+          
+“We did it! The statue is
+going to reward us!”
+
+      
+“GET OUT!”
+the statue roared.
+
+          
+Arun and Arunachalam
+dived out the door.
+Gadagadagadagada!
+The pillars began to shake.
+Radaradaradarada!
+The palace walls trembled.
+Kaaaarrraaaaaaak!
+The palace crumbled
+into ruins.
+
+      
+
+          
+“No one’s going to believe what happened, Arunachalam,”
+Arun said. 
+“We don’t have a single jewel!”
+“Click… click… click…” Arunachalam smirked. The jewel in his mouth sparkled.
+
+      
+
+          
+What is an electronic circuit?
+An electronic circuit is a path through which an electric current can flow. 
+It has components such as a
+battery, resistors and LEDs that are connected by wires. 
+Electronic circuits are built to do certain tasks,
+for example, the task of an LED circuit 
+is to make the LED glow.
+To make your own LED circuit, you will need:
+
+      
+
+          
+
+          
+1. An LED (light emitting diode)
+An electronic component that produces light
+when current flows through it.
+
+      
+
+      
+
+          
+2. A resistor
+An electronic component used
+to reduce the flow of current.
+
+      
+
+          
+3. Two wires
+Wires are metal threads covered with plastic,
+used to carry the electric current.
+
+      
+
+          
+4. A nine-volt battery
+The component that supplies
+power to the circuit.
+
+      
+
+          
+5. A breadboard
+A platform upon which to build the circuit.
+
+      
+Build your own electronic circuit
+Note: Make sure you have an adult or teacher around when you are trying out this experiment.
+Step 1
+
+          
+Fix the LED to the breadboard.
+
+      
+
+          
+
+          
+Step 2
+
+      
+
+          
+Pin the resistor to
+the long leg of the LED.
+
+      
+
+          
+Step 3
+
+      
+
+          
+Pin one wire next to the short leg of the LED and one wire right next to the resistor.
+
+      
+Step 4
+
+          
+Connect the wire next to the short leg of the LED to the negative side of the battery.
+
+      
+Step 5
+
+          
+
+
+
+
+
+
+
+
+
+
+
+Connect the wire next to the resistor to the positive side
+
+of the battery. 
+
+
+      
+Step 6
+
+          
+When the light turns on, your electronic circuit is complete!
+
+      

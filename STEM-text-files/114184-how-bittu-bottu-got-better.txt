@@ -1,0 +1,657 @@
+
+
+
+
+
+
+
+
+
+
+
+Andy Prakash was only eight years old,
+but he studied in Class 10.
+
+
+He had more brains than the whole school.
+More brains than the students, more brains
+than the teachers and even more brains
+than the principal! 
+
+
+
+
+
+
+
+
+
+
+
+
+The walking, talking proof of his super-intelligence
+was Bittu Bottu, a robot he had built all by himself.
+
+
+
+
+
+
+
+
+
+
+
+
+Bittu Bottu could answer any question.
+“Bittu Bottu, how tall is Mount Everest?”
+
+“About 8,848 metres above sea level,” Bittu Bottu replied.
+
+
+
+
+
+
+
+
+
+
+
+
+“Bittu Bottu, why did the chicken cross the road?”
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+Well, 
+almost
+ any question.
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+Bittu Bottu did Andy’s homework.
+
+
+
+
+
+
+
+
+
+
+
+
+Bittu Bottu did Andy’s housework.
+
+
+“
+Andy!
+ Clean your room yourself!”
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+Bittu Bottu did Andy’s lab work.
+
+
+      
+
+          
+
+“Who bought all this? Diodes, resistors,
+capacitors and 
+transistors... And look at
+the electricity bill! 
+ANDY!
+”
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+One day, Andy sent Bittu Bottu
+
+to school in his place.
+
+
+“Andy Prakash!”
+
+“Present, teacher.”
+
+
+
+
+
+
+
+
+
+
+
+
+The class teacher kept Bittu Bottu back at school
+and sent Andy’s parents an angry text message.
+
+
+
+
+
+
+
+
+
+
+
+
+“ANDY!”
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Ma, I want Bittu Bottu back.
+I miss him! Please write the teacher
+a letter,” Andy told Amma.
+“That robot spoils you.
+
+I won’t write it.” 
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+“Pa, please write a letter
+
+to my teacher!”
+
+
+“What, and get big electricity bills
+in return? No, of course not.” 
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+Andy climbed into school that night.
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+That was when he found…
+
+
+      
+
+          
+
+
+
+
+
+
+
+
+
+
+
+a diode
+
+
+      
+
+          
+
+
+
+
+
+
+
+
+
+
+
+an IC
+
+
+      
+ 
+a transistor
+
+
+
+
+
+
+
+
+
+
+
+Andy followed the trail of Bittu Bottu’s parts to the computer lab.
+
+
+“Bittu Bottu is falling apart! I must have overworked him,” he thought.
+“Where are you, my poor BB? 
+Are you in the computer lab? I have your parts, BB!”
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+Andy found the lab locked.
+
+CRUCK CRUCK
+
+Someone was coming!
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+Andy hid behind a pillar as Security Anna 
+walked
+past the computer lab. What could he do now?
+How would he give the parts to Bittu Bottu?
+
+
+
+
+
+
+
+
+
+
+
+
+“Hey, Bittu Bottu,” Andy whispered.
+
+
+Bittu Bottu was too weak
+
+to walk or talk.
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+Andy threw the diode, IC and transistor
+into a bag and pushed it through
+the window.
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+Bittu Bottu fixed himself with the components. He crawled, little by little, to a corner.
+
+
+
+
+
+
+
+
+
+
+
+
+“What are you doing, Bittu Bottu? Are you okay?” asked Andy.
+
+“I am charging my battery, Andooo...”
+
+“Ah, good boy! But don’t call me Andooo!”
+
+“Okay, Andooo...”
+
+
+
+
+
+
+
+
+
+
+
+
+The next morning,
+
+Andy gave the teacher
+
+a letter from his mother.
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+Respected Class Teacher, 
+
+
+My son, Andy Prakash, studying in
+your class, has promised to do all
+his work without help from his robot.
+Kindly do the needful and please
+return the robot to him. 
+
+
+Thanking you,
+
+Yours respectfully,
+
+Andy’s mother
+
+
+P.S. This letter was not written by
+another robot or by Andy, but by me. 
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+Bittu Bottu was allowed to go home with Andy that day.
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+Now Andy did the 
+housework himself.
+
+
+      
+
+          
+
+
+
+
+
+
+
+
+
+
+
+He did his lab work himself.
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+Andy even did his
+homework himself...
+
+
+
+
+
+
+
+
+
+
+
+
+But not always.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bittu Bottu is made of four basic parts.
+
+
+          
+
+          
+
+
+
+
+
+
+
+
+
+
+
+1. Power Supply 
+
+Robots need electricity to do work. Bittu Bottu has a rechargeable battery inside and solar powered cells outside. Diodes, resistors, transistors and capacitors control the power as needed.
+
+
+      
+
+      
+
+          
+
+
+
+
+
+
+
+
+
+
+
+2. Actuators
+
+Actuators are motors that use power
+
+to help the robot move. Big motors help Bittu Bottu move from place to place. Little motors move his head and arms.
+
+
+      
+
+          
+
+
+
+
+
+
+
+
+
+
+
+3. Sensors
+
+Sensors allow a robot to see and hear.
+
+Bittu Bottu’s sensors are cameras
+
+and microphones that work as
+
+his eyes and ears.
+
+
+      
+
+          
+
+
+
+
+
+
+
+
+
+
+
+4. Controller 
+
+The controller is the brain of a robot.
+
+It understands the information from
+
+the sensors and tells the actuators
+
+what to do. It can be programmed to follow human commands. A controller is usually
+made of integrated circuits (ICs).
+
+
+      

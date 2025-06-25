@@ -1,0 +1,107 @@
+
+          
+When we speak into the phone,
+our voice enters it in the form
+of sound waves.
+
+      
+
+			
+The sound waves rush into the microphone and are changed into electrical signals.
+
+		
+Microphone
+
+          
+The phone’s antenna changes the electrical signals into electromagnetic waves. 
+These waves are picked up by the closest cell tower...
+
+      
+and then sent to a large cell tower.
+
+          
+The large cell tower passes on these waves as signals through wires, where they travel...
+
+      
+
+          
+along mountains...
+over roads...
+and even undersea...
+
+      
+until finally, the signal reaches the large tower closest to the person being called.
+
+			
+			
+The large tower then converts the signal into electromagnetic waves...
+
+		
+		
+
+			
+and sends it to the cell tower closest to the phone you are calling.
+
+		
+
+			
+The phone’s antenna receives the electromagnetic waves.
+And the phone changes the waves into electrical signals.
+
+		
+
+			
+Finally, the electrical signals are converted back into sound waves using the speaker.
+
+		
+Speaker
+
+          
+And that’s how sound is heard on the other side.
+
+      
+
+          
+Sound waves
+
+      
+
+          
+Electrical signals
+
+      
+
+          
+Electromagnetic waves
+
+      
+
+          
+Small cell tower
+
+      
+Large cell tower
+
+          
+Underground wires
+
+      
+Large cell tower
+Small cell tower
+Electromagnetic
+waves
+Electrical signals
+
+          
+
+          
+Sound waves
+
+      
+
+      
+
+          
+How a Call Travels
+
+      
