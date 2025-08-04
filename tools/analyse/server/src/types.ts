@@ -16,6 +16,7 @@ export interface SettingGroup {
 export interface ThemeGroup {
   primary: string[];
   secondary: string[];
+  amazon?: string;
 }
 
 export interface EventGroup {

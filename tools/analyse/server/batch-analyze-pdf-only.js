@@ -123,6 +123,7 @@ function flattenAnalysisResult(result) {
         // Themes
         themes_primary: result.data?.themes?.primary?.join('; ') || '',
         themes_secondary: result.data?.themes?.secondary?.join('; ') || '',
+        themes_amazon: result.data?.themes?.amazon || '',
 
         // Events
         events_primary: result.data?.events?.primary?.join('; ') || '',

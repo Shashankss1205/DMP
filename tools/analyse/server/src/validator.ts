@@ -27,57 +27,71 @@ export class ValidationService {
   }
 
   sanitizeAnalysisResult(data: any): AnalysisResult {
+    // Helper function to filter and ensure non-empty arrays
+    const sanitizeArray = (
+      arr: any[],
+      defaultValue: string = "Unknown"
+    ): string[] => {
+      if (!Array.isArray(arr)) return [defaultValue];
+      const filtered = arr.filter(
+        (item) => typeof item === "string" && item.trim().length > 0
+      );
+      return filtered.length > 0 ? filtered : [defaultValue];
+    };
+
+    // Helper function to sanitize secondary arrays (can be empty)
+    const sanitizeSecondaryArray = (arr: any[]): string[] => {
+      if (!Array.isArray(arr)) return [];
+      return arr.filter(
+        (item) => typeof item === "string" && item.trim().length > 0
+      );
+    };
+
     // Ensure required fields exist with default values
     const sanitized: AnalysisResult = {
       characters: {
-        primary: Array.isArray(data.characters?.primary)
-          ? data.characters.primary
-          : [""],
-        secondary: Array.isArray(data.characters?.secondary)
-          ? data.characters.secondary
-          : [],
+        primary: sanitizeArray(data.characters?.primary, "Character"),
+        secondary: sanitizeSecondaryArray(data.characters?.secondary),
       },
       settings: {
-        primary: Array.isArray(data.settings?.primary)
-          ? data.settings.primary
-          : [""],
-        secondary: Array.isArray(data.settings?.secondary)
-          ? data.settings.secondary
-          : [],
+        primary: sanitizeArray(data.settings?.primary, "Setting"),
+        secondary: sanitizeSecondaryArray(data.settings?.secondary),
       },
       themes: {
-        primary: Array.isArray(data.themes?.primary)
-          ? data.themes.primary
-          : [""],
-        secondary: Array.isArray(data.themes?.secondary)
-          ? data.themes.secondary
-          : [],
+        primary: sanitizeArray(data.themes?.primary, "General"),
+        secondary: sanitizeSecondaryArray(data.themes?.secondary),
+        // Only add amazon field if it exists and is valid
+        ...(data.themes?.amazon &&
+        typeof data.themes.amazon === "string" &&
+        data.themes.amazon.trim().length > 0
+          ? { amazon: data.themes.amazon.trim() }
+          : {}),
       },
       events: {
-        primary: Array.isArray(data.events?.primary)
-          ? data.events.primary
-          : [""],
-        secondary: Array.isArray(data.events?.secondary)
-          ? data.events.secondary
-          : [],
+        primary: sanitizeArray(data.events?.primary, "Story event"),
+        secondary: sanitizeSecondaryArray(data.events?.secondary),
       },
       emotions: {
-        primary: Array.isArray(data.emotions?.primary)
-          ? data.emotions.primary
-          : [""],
-        secondary: Array.isArray(data.emotions?.secondary)
-          ? data.emotions.secondary
-          : [],
+        primary: sanitizeArray(data.emotions?.primary, "Emotion"),
+        secondary: sanitizeSecondaryArray(data.emotions?.secondary),
       },
-      keywords: Array.isArray(data.keywords) ? data.keywords : [""],
+      keywords: sanitizeArray(data.keywords, "keyword"),
     };
 
-    // Add optional fields if they exist
+    // Add optional fields if they exist (relaxed validation)
     if (data.story_title && typeof data.story_title === "string") {
-      sanitized.story_title = data.story_title;
+      const trimmed = data.story_title.trim();
+      if (trimmed.length > 0) {
+        sanitized.story_title = trimmed;
+      }
     }
+
+    // Level field - accept any non-empty string (relaxed validation)
     if (data.level && typeof data.level === "string") {
-      sanitized.level = data.level;
+      const trimmed = data.level.trim();
+      if (trimmed.length > 0) {
+        sanitized.level = trimmed;
+      }
     }
 
     return sanitized;

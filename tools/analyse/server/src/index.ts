@@ -13,13 +13,17 @@ const validationService = new ValidationService();
 const promptPath = join(import.meta.dir, "..", "prompt.md");
 const promptTemplate = readFileSync(promptPath, "utf-8");
 
-const promptTextOnlyPath = join(import.meta.dir, "..", "prompt-text-only.md");
+const promptTextOnlyPath = join(
+  import.meta.dir,
+  "..",
+  "prompt-text-only.v1-2.md"
+);
 const promptTextOnlyTemplate = readFileSync(promptTextOnlyPath, "utf-8");
 
 const promptPdfOnlyPath = join(
   import.meta.dir,
   "..",
-  "prompt-pdf-only.v1-1.md"
+  "prompt-pdf-only.v1-2.md"
 );
 const promptPdfOnlyTemplate = readFileSync(promptPdfOnlyPath, "utf-8");
 
